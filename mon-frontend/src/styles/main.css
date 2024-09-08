@@ -35,7 +35,7 @@ body {
   white-space: nowrap !important; /* 3 */
 }
 
-.main-nav {
+/* .main-nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -68,10 +68,10 @@ body {
 .main-nav-logo-image {
   max-width: 100%;
   width: 200px;
-}
+} */
 
-.hero {
-  background-image: url('../img/bank-tree.jpeg');
+/* .hero {
+  background-image: url("../assets&images/img/bank-tree.jpeg");
   background-position: 0 -50px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -121,12 +121,12 @@ body {
   .hero-content .text {
     font-size: 1.2rem;
   }
-}
+} */
 
-.features {
+/* .features {
   display: flex;
   flex-direction: column;
-}
+} */
 
 @media (min-width: 920px) {
   .features {
@@ -141,7 +141,7 @@ body {
   padding: 1rem;
 }
 
-.feature-item {
+/* .feature-item {
   flex: 1;
   padding: 2.5rem;
 }
@@ -151,9 +151,9 @@ body {
   font-size: 1.25rem;
   font-weight: bold;
   margin-bottom: 0.5rem;
-}
+} */
 
-.sign-in-button {
+/* .sign-in-button {
   display: block;
   width: 100%;
   padding: 8px;
@@ -200,9 +200,9 @@ body {
 .input-wrapper input {
   padding: 5px;
   font-size: 1.2rem;
-}
+} */
 
-.footer {
+/* .footer {
   display: flex;
   justify-content: center;
   border-top: 2px solid #ccc;
@@ -212,9 +212,9 @@ body {
 .footer-text {
   margin: 0;
   padding: 0;
-}
+} */
 
-.account {
+/* .account {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -249,9 +249,9 @@ body {
 .account-content-wrapper {
   width: 100%;
   flex: 1;
-}
+} */
 
-.edit-button {
+/* .edit-button {
   border-color: #00bc77;
   background-color: #00bc77;
   color: #fff;
@@ -262,9 +262,9 @@ body {
 .header {
   color: #fff;
   margin-bottom: 2rem;
-}
+} */
 
-.transaction-button {
+/* .transaction-button {
   display: block;
   width: 100%;
   padding: 8px;
@@ -288,4 +288,4 @@ body {
   .transaction-button {
     width: 200px;
   }
-}
+} */
