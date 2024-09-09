@@ -12,6 +12,7 @@ function App() {
         <Route path="/" element={<Index />} />
         <Route path="user" element={<User />} />
         <Route path="signin" element={<SignIn />} />
+        <Route path="*" element={<div>Error404</div>} />
       </Routes>
     </BrowserRouter>
   );
